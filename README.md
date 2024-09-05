@@ -33,4 +33,4 @@ NI cDAQ-9178 chassis + NI 9234 ADC (1 to 16 channels).
 
 ---
 
-NOTE: Links not working, just for reference. Search for updated drivers before use.
+NOTE: Links not working, text is only for reference. Search for updated drivers in NI and Mathworks official sites before use.
