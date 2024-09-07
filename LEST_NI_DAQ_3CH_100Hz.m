@@ -1,6 +1,11 @@
+%------------------------------------------------------------------------------------------
+% Project   :  UMinho LEST NI DAQ system code for MATLAB [2022]
+% Author    :  Manuel F. Hormazabal
+% Contact   :  m.hormazabal@gmail.com
+%------------------------------------------------------------------------------------------
 clear all; close all; clc;
 %
-%% --- Setup --------------------------------------------------------------
+%% Test Setup -----------------------------------------------------------------------------
 % 
     Config.Test_Name = 'PhD_LAB_Damaged';
     Config.Test_Date = 05052022; 
@@ -22,7 +27,7 @@ clear all; close all; clc;
     Config.Recording_Time    = 600;  
     Config.Setting_Pause     = 60;
 %
-%% --- Record -------------------------------------------------------------
+%% Record Data ----------------------------------------------------------------------------
 %
     Config.Filter_Order = 5;
     Data_100 = zeros(Config.Number_of_records,100*Config.Recording_Time,numel(NI_DAQ.Channels));
