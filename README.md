@@ -31,9 +31,9 @@ Already tested and working devices and configurations:
   NI USB-9162 USB carrier + NI 9234 ADC (1 to 4 channels).
   NI cDAQ-9178 chassis + NI 9234 ADC (1 to 16 channels).
 
-MATLAB References: 
-*[MathWorks Matlab :](https://www.markdownguide.org](https://www.mathworks.com/hardware-support/nidaqmx.html)*.
-*[National Instruments :](https://www.markdownguide.org](https://www.ni.com/en/support/downloads/drivers/download.ni-daq-mx.html#547031)*.
+References: 
+MathWorks Matlab *(https://www.markdownguide.org](https://www.mathworks.com/hardware-support/nidaqmx.html)*.
+National Instruments *(https://www.markdownguide.org](https://www.ni.com/en/support/downloads/drivers/download.ni-daq-mx.html#547031)*.
 
 ---
 
