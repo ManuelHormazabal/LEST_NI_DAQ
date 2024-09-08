@@ -13,6 +13,7 @@ Already tested and working devices and configurations:
   NI cDAQ-9178 chassis + NI 9234 ADC (1 to 16 channels).
 
 References: 
+
   https://www.mathworks.com/hardware-support/nidaqmx.html
   https://www.markdownguide.org](https://www.ni.com/en/support/downloads/drivers/download.ni-daq-mx.html#547031
 
