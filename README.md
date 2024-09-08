@@ -23,14 +23,19 @@ i.e.:
 
 ## Drivers and needed files installation:
 Mandatory installation "Data Acquisition Toolbox"
-The Data Acquisition Toolbox Addon ids needed in order to run this live script. The toolbox can be installed directly from the Matlab add-ons explorer, or it can be downloaded by clicking here. (Last time visited: 07/04/2022)
+The Data Acquisition Toolbox Addon ids needed in order to run these scripts. The toolbox can be installed directly from the Matlab add-ons explorer, or it can be downloaded by clicking here. (Last time visited: 07/04/2022)
 Mandatory installation "Data Acquisition Toolbox Support Package for National Instruments NI-DAQmx Devices"
 National Instruments drivers and needed files. Can be installed directly from the Matlab add-ons explorer, or it can be downloaded by clicking here. (Last time visited: 07/04/2022)
 
-Currently already tested and working devices and configurations:
-NI USB-9162 USB carrier + NI 9234 ADC (1 to 4 channels).
-NI cDAQ-9178 chassis + NI 9234 ADC (1 to 16 channels).
+Already tested and working devices and configurations:
+  NI USB-9162 USB carrier + NI 9234 ADC (1 to 4 channels).
+  NI cDAQ-9178 chassis + NI 9234 ADC (1 to 16 channels).
+
+MATLAB References: 
+*[MathWorks Matlab :](https://www.markdownguide.org](https://www.mathworks.com/hardware-support/nidaqmx.html)*.
+*[National Instruments :](https://www.markdownguide.org](https://www.ni.com/en/support/downloads/drivers/download.ni-daq-mx.html#547031)*.
 
 ---
 
-NOTE: Links not working, text is only for reference. Search for updated drivers in NI and Mathworks official sites before use.
+NOTE: The links in this repository may not work. This text is intended only as a reference. Please, search for updated drivers in NI and Mathworks official sites and repositories before use.
+
