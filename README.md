@@ -14,6 +14,7 @@ This MATLAB scripts allows to perform data acquisition using the National Instru
 
 ## References:
 https://www.mathworks.com/hardware-support/nidaqmx.html
+
 https://www.ni.com/en/support/downloads/drivers/download.ni-daq-mx.html
 
 
