@@ -3,22 +3,6 @@
 This MATLAB scripts allows to perform data acquisition using the National Instruments DAQ system available in the LEST laboratory of the Univesity of Minho.
 [Last Code Update: 07/04/2022]
 
-## Introduction:
-
-This MATLAB scripts allows to perform data acquisition using the National Instruments devices available in the LEST laboratory from the Univesity of Minho.
-
-Important information for non-Matlab users: 
- - For running the script sections, place the cursor on the section to run, and press "Ctrl+Enter"
- - For comment command-lines, place the cursor on the command and press "Ctrl+R", or add a '%' sign in front of the line.
- - For uncomment command-lines, place the cursor on the command and press "Ctrl+T",  or delete the '%' sign in front of the line.
-
- Commenting/uncommenting lines of code allows to omit/include them from the running process. When a line is setup as comment, a % sign will appear in front of the line and the font   
- color will change to green.
-
-i.e.:
-  % This a commented line and it will not be considered in the script code when runned.
-  This is a uncommented line and it will be considered in the code. (If runned, this line will give a "Unrecognized function or variable" error).
-
 ## Drivers and needed files installation:
   Mandatory installation of "Data Acquisition Toolbox". The toolbox can be installed directly from the Matlab add-ons explorer, or it can be downloaded ~~by clicking here~~ (Last time   visited: 07/04/2022).
   Mandatory installation of "Data Acquisition Toolbox Support Package for National Instruments NI-DAQmx Devices". National Instruments drivers and needed files can be installed    
