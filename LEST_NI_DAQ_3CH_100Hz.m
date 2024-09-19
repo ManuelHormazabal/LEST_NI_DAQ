@@ -4,7 +4,7 @@
 % Contact   :  m.hormazabal@gmail.com
 %------------------------------------------------------------------------------------------
 % Code for a three channel acquisition with PCB393B12 accelerometers and using the NI 9234 ADC.
-# The output is a .dat file with the recorded acceleration data sampled at 100 Hz.
+% The output is a .dat file with the recorded acceleration data sampled at 100 Hz.
 % Transducers : #16906 - #16910 - #32170 (check lab. data for updated sensitivities)
 %------------------------------------------------------------------------------------------
 %
